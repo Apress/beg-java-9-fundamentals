@@ -1,0 +1,2 @@
+--module-path ..\mod
+--module module/com.jdojo.intro.Welcome

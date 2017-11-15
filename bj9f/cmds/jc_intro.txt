@@ -1,0 +1,3 @@
+-d ..\mod\jdojo.intro
+..\src\jdojo.intro\module-info.java
+..\src\jdojo.intro\com\jdojo\intro\Welcome.java
